@@ -20,7 +20,7 @@ Udacity - Bertelsmann AI Scholarship
 <table width="100%">
     <tr>
         <td width="50%">
-        <a href="https://www.youtube.com/user/TheEngiineer/"><img alt="Udacity AI" src="Images/comingsoon.PNG"/></a>
+        <a href="https://www.youtube.com/user/TheEngiineer/"><img alt="Udacity AI" src="Images/comingsoon.png"/></a>
         <td width="50%"><H2>Second Jupyter Notebook - TBD</H2>
         Next Session Will Follow Soon. </td>
     </tr>
