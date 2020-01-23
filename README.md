@@ -12,7 +12,7 @@ Udacity - Bertelsmann AI Scholarship
         <td width="50%">
             <H2>Notebook - Implementation of Gradient Descent Algorithm</H2>
             In this repository you will find the code as a Jupyter notebook.
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="My YouTube Channel" src="Images/graddescent.PNG"/></a></td>
+        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="My YouTube Channel" src="Images/graddescent.png"/></a></td>
     </tr>
 </table>
 <br/>
