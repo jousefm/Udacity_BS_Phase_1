@@ -13,7 +13,7 @@ Lesson 3
 <table width="100%">
     <tr>
         <td width="50%">
-            <H2>Notebook - Implementation of AND Perceptron</H2>
+            <H2>Implementation of AND Perceptron</H2>
             By clicking on the picture you will be redirected to the Jupyter Notebook.
         <td width="50%"><a href="https://github.com/jousefm/Udacity_BS_Phase_1/blob/master/Notebooks/Lesson%203_8%20-%20Perceptrons/3_8_logical_and_perceptron.py"><img alt="My YouTube Channel" src="Images/andperceptron.png"/></a></td>
     </tr>
@@ -24,7 +24,7 @@ Lesson 3
     <tr>
         <td width="50%">
         <a href="https://github.com/jousefm/Udacity_BS_Phase_1/blob/master/Notebooks/Lesson%203_8%20-%20Perceptrons/3_8_logical_not_perceptron.py"><img alt="Udacity AI" src="Images/orperceptron.png"/></a>
-        <td width="50%"><H2>Notebook - Implementation of NOT Perceptron</H2>
+        <td width="50%"><H2>Implementation of NOT Perceptron</H2>
         By clicking on the picture you will be redirected to the Jupyter Notebook for the implementation of the NOT Perceptron </td>
     </tr>
 </table>
@@ -33,7 +33,7 @@ Lesson 3
 <table width="100%">
     <tr>
         <td width="50%">
-            <H2>Notebook - Implementation of Gradient Descent Algorithm</H2>
+            <H2>Implementation of Gradient Descent Algorithm</H2>
             In this repository you will find the code as a Jupyter notebook.
         <td width="50%"><a href="https://github.com/jousefm/Udacity_BS_Phase_1/blob/master/Notebooks/1.%20Gradient%20Descent/1.GradientDescent.ipynb"><img alt="My YouTube Channel" src="Images/graddescent.png"/></a></td>
     </tr>
